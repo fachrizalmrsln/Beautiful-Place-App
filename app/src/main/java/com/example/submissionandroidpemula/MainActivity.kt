@@ -154,7 +154,7 @@ class MainActivity : AppCompatActivity() {
             )
             data.add(
                 9, DataModel(
-                    dataImage = R.drawable.tembok_cina,
+                    dataImage = R.drawable.greatest_wall,
                     dataName = "Great Wall",
                     dataPlace = "China",
                     dataDescription = resources.getString(R.string.great_wall_description)
