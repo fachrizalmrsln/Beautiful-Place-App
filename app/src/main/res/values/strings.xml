@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Beautiful Place</string>
+    <string name="about">About</string>
+    <string name="getting_data">Getting data</string>
+    <string name="place_name">Place Name</string>
+    <string name="location">Location</string>
+    <string name="email">fahrizalmursalin06@gmail.com</string>
+    <string name="name">Fachrizal A. Z. Mursalin</string>
+    <string name="maldives_description">
+        Unrivalled luxury, stunning white-sand beaches and an amazing underwater world make
+        Maldives an obvious choice for a true holiday of a lifetime. Maldives is
+        home to perhaps the best beaches in the world; they are on almost every one of
+        the country nearly 1200 islands and are so consistently perfect that its hard not to
+        become blase about them. While some beaches may boast softer granules than others, the basic
+        fact remains: you wont find consistently whiter-than-white powder sand and luminous
+        cyan-blue water like this anywhere else on earth. This fact alone is enough to bring well
+        over a million people a year to this tiny, remote and otherwise little-known Indian Ocean paradise. 
+        Every resort in Maldives is its own private island, and with over 100 to choose from the only problem 
+        is selecting where you want to stay. At the top end, the worlds most exclusive hotel brands compete 
+        with each other to attain ever-greater heights of luxury, from personal butlers and private lap pools 
+        to in-room massages and pillow menus. Its not surprising that honeymooners and those seeking a 
+        glamorous tropical getaway have long had the country at the very top of their wish lists. But there is
+        also plenty of choice beyond the five- and six-star resorts.
+    </string>
+    <string name="bora_bora_description">
+        Bora Bora (French: Bora-Bora; Tahitian: Pora Pora) is a 30.55 km2 (12 sq mi) island group in the
+        Leeward group in the western part of the Society Islands of French Polynesia, an overseas
+        collectivity of the French Republic in the Pacific Ocean. The main island, located about 230
+        kilometres (143 miles) northwest of Papeete, is surrounded by a lagoon and a barrier reef.
+        In the center of the island are the remnants of an extinct volcano rising to two peaks,
+        Mount Pahia and Mount Otemanu, the highest point at 727 metres (2,385 feet). It is part of
+        the commune of Bora-Bora, which also includes the atoll of Tūpai.
+        Bora Bora is a major international tourist destination,
+        famous for its aqua-centric luxury resorts. The major settlement,
+        Vaitape, is on the western side of the main island, opposite the main channel
+        into the lagoon. Produce of the island is mostly limited to what can be obtained from the
+        sea and the plentiful coconut trees, which were historically of economic importance for copra.
+    </string>
+    <string name="mount_bromo_description">
+        Mount Bromo (Indonesian: Gunung Bromo), is an active volcano and part of the Tengger massif,
+        in East Java, Indonesia. The volcano belongs to the Bromo Tengger Semeru National Park.
+        The name of Bromo derived from Javanese pronunciation of Brahma, the Hindu creator god. It
+        is a major pilgrimage centre for Hindus in Indonesia, particularly Tenggerese Hindus.They make
+        pilgrimage during the Yadnya Kasada. Mount Bromo sits in the middle of a plain called the
+        "Sea of Sand" (Javanese: Segara Wedi or Indonesian: Lautan Pasir), a
+        protected nature reserve since 1919. The typical way to visit Mount Bromo
+        is from the nearby mountain village of Cemoro Lawang. From there it is possible
+        to walk to the volcano in about 45 minutes, but it is also possible to take an organised
+        jeep tour, which includes a stop at the viewpoint on Mount Penanjakan (2,770 m or 9,088 ft)
+        (Indonesian: Gunung Penanjakan). The viewpoint on Mount Penanjakan can also be reached on
+        foot in about two hours. Depending on the degree of volcanic activity,
+        the Indonesian Centre for Volcanology and Disaster Hazard Mitigation sometimes
+        issues warnings against visiting Mount Bromo.
+    </string>
+    <string name="colosseum_description">
+        The Colosseum or Coliseum, also known as the Flavian Amphitheatre
+        (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio or Colosseo, is an oval
+        amphitheatre in the centre of the city of Rome, Italy. Built of travertine limestone,
+        tuff (volcanic rock), and brick-faced concrete, it was the largest amphitheatre ever
+        built at the time and held 50,000 spectators. The Colosseum is situated just east of the
+        Roman Forum. Construction began under the emperor Vespasian in AD 72 and was completed
+        in AD 80 under his successor and heir, Titus. Further modifications were made during the
+        reign of Domitian (81–96). These three emperors are known as the Flavian dynasty, and
+        the amphitheatre was named in Latin for its association with their family name (Flavius).
+        The Colosseum could hold an estimated 50,000 to 80,000 spectators during phases of its
+        various renovations over the centuries,having an average audience of some 65,000;
+        it was used for gladiatorial contests and public spectacles such as mock sea battles
+        (for only a short time as the hypogeum was soon filled in with mechanisms to support the
+        other activities), animal hunts, executions, re-enactments of famous battles, and dramas
+        based on Classical mythology. The building ceased to be used for entertainment in the early
+        medieval era. It was later reused for such purposes as housing, workshops, quarters for a
+        religious order, a fortress, a quarry, and a Christian shrine.
+        Although substantially ruined because of earthquakes, thieves, and stone-robbers,
+        the Colosseum is still an iconic symbol of Imperial Rome and is listed as one of the
+        New7Wonders of the World. It is one of Romes most popular tourist attractions and also
+        has links to the Roman Catholic Church, as each Good Friday the Pope leads a torchlit "Way
+        of the Cross" procession that starts in the area around the Colosseum. In 2018, it was
+        the most popular tourist attraction in the world, with 7.4 million visitors.
+    </string>
+    <string name="labuan_bajo_description">
+        Labuan Bajo is the gateway for trips across the nearby Komodo National Park to Komodo
+        Island and Rinca Island, both home to the famous Komodo dragons. There are numerous
+        snorkling points in the islands close to Labuan Bajo. Kanawa and Seraya Islands, for
+        example, offer good diving and snorkeling sites. Currents can be strong at some sites
+        however so care is needed. Every evening at Kalong Island, to the south of Labuan
+        Bajo, thousands of flying fox bats (known as burung kalong in Indonesian) provide an
+        amazing display. Around dusk the bats rise up from the mangroves around Kalong Island
+        and within a few minutes, a column begins to form as thousands of bats begin to traverse
+        across to the main island of Flores to the east. More and more bats join the column for
+        perhaps the next 30 mins or so. The column soon forms into a remarkable trail across the sky
+        stretching for miles as the bats fly east to Flores to search for food in the nearby forests.
+    </string>
+    <string name="eiffel_tower_description">
+        The Eiffel Tower French: tour Eiffel (About this soundlisten)) is
+        a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+        It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+        Constructed from 1887 to 1889 as the entrance to the 1889 Worlds
+        Fair, it was initially criticised by some of Frances leading artists
+        and intellectuals for its design, but it has become a global cultural icon of France and one
+        of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid
+        monument in the world; 6.91 million people ascended it in 2015. The tower is 324
+        metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure
+        in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction,
+        the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the
+        world, a title it held for 41 years until the Chrysler Building in New York City was finished in
+        1930. It was the first structure to reach a height of 300 metres. Due to the addition of a
+        broadcasting aerial at the top of the tower in 1957, it is now taller than the Chrysler Building
+        by 5.2 metres (17 ft). Excluding transmitters, the Eiffel Tower is the second tallest free-standing
+        structure in France after the Millau Viaduct.
+    </string>
+    <string name="santorini_description">
+        Santorini , officially Thira (Greek: and classic Greek Thera (English pronunciation),
+        is an island in the southern Aegean Sea, about 200 km (120 mi) southeast of Greeces
+        mainland. It is the largest island of a small, circular archipelago, which bears the
+        same name and is the remnant of a volcanic caldera. It forms the southernmost member of
+        the Cyclades group of islands, with an area of approximately 73 km2 (28 sq mi) and a 2011
+        census population of 15,550. The municipality of Santorini includes the inhabited islands of
+        Santorini and Therasia, as well as the uninhabited islands of Nea Kameni, Palaia Kameni,
+        Aspronisi and Christiana. The total land area is 90.623 km2 (34.990 sq mi). Santorini
+        is part of the Thira regional unit. The island was the site of one of the
+        largest volcanic eruptions in recorded history: the Minoan eruption (sometimes
+        called the Thera eruption), which occurred about 3,600 years ago at the height of
+        the Minoan civilization. The eruption left a large caldera surrounded by volcanic
+        ash deposits hundreds of metres deep. It may have led indirectly to the collapse of the
+        Minoan civilization on the island of Crete, 110 km (68 mi) to the south, through a gigantic
+        tsunami. Another popular theory holds that the Thera eruption is the source of the legend of Atlantis.
+        It is the most active volcanic centre in the South Aegean Volcanic Arc, though what remains today
+        is chiefly a water-filled caldera. The volcanic arc is approximately 500 km (310 mi)
+        long and 20 to 40 km (12 to 25 mi) wide. The region first became volcanically active around 3–4
+        million years ago[citation needed], though volcanism on Thera began around 2 million years ago
+        with the extrusion of dacitic lavas from vents around Akrotiri.
+    </string>
+    <string name="mount_fuji_description">
+        Mount Fuji (富士山 Fujisan, IPA:  (About this soundlisten)), 
+        located on Honshū, is the highest volcano in Japan at 3,776.24 m (12,389 ft), 
+        2nd-highest volcano of an island in Asia (after Mount Kerinci in Sumatra), and 
+        7th-highest peak of an island in the world. It is an active stratovolcano that last erupted
+        in 1707–1708. Mount Fuji lies about 100 kilometers (60 mi) south-west of Tokyo, and can be
+        seen from there on a clear day. Mount Fujis exceptionally symmetrical cone, which is snow-capped 
+        for about 5 months a year, is commonly used as a symbol of Japan and it is frequently depicted in 
+        art and photographs, as well as visited by sightseers and climbers.
+        Mount Fuji is one of Japans "Three Holy Mountains" along with Mount 
+        Tate and Mount Haku. It is also a Special Place of Scenic Beauty and one of 
+        Japans Historic Sites. It was added to the World Heritage List as a Cultural
+        Site on June 22, 2013. According to UNESCO, Mount Fuji has
+        "inspired artists and poets and been the object of pilgrimage for centuries".
+        UNESCO recognizes 25 sites of
+        cultural interest within the Mount Fuji locality. These 25 locations include the mountain 
+        and the Shinto shrine, Fujisan Hongū Sengen Taisha, as well as the Buddhist Taisekiji Head 
+        Temple founded in 1290, later depicted by Japanese ukiyo-e artist Katsushika Hokusai.
+    </string>
+    <string name="great_wall_description">
+        The Great Wall of China (Chinese: 萬里長城; pinyin: Wànlǐ Chángchéng) is the collective name
+        of a series of fortification systems generally built across the historical northern borders
+        of China to protect and consolidate territories of Chinese states and empires against various
+        nomadic groups of the steppe and their polities. Several walls were being built from as early
+        as the 7th century BC by ancient Chinese states; selective stretches were later joined together
+        by Qin Shi Huang (220–206 BC), the first Emperor of China. Little of the Qin wall remains.
+        Later on, many successive dynasties have built and maintained multiple stretches of border walls.
+        The most well-known sections of the wall were built by the Ming dynasty (1368–1644).
+        Apart from defense, other purposes of the Great Wall have included border controls,
+        allowing the imposition of duties on goods transported along the Silk Road, regulation
+        or encouragement of trade and the control of immigration and emigration. Furthermore,
+        the defensive characteristics of the Great Wall were enhanced by the construction of
+        watch towers, troop barracks, garrison stations, signaling capabilities through the means
+        of smoke or fire, and the fact that the path of the Great Wall also served as a transportation corridor.
+    </string>
+    <string name="jeju_island">
+        From April 3, 1948 to May 1949, the South Korean government conducted an anticommunist
+        campaign to suppress an attempted uprising on the island. The main cause for the
+        rebellion was the election scheduled for May 10, 1948, designed by the United Nations Temporary
+        Commission on Korea (UNTCOK) to create a new government for all of Korea. The elections were only
+        planned for the south of the country, the half of the peninsula under UNTCOK control. Fearing
+        that the elections would further reinforce division, guerrilla fighters for the South Korean
+        Labor party (SKLP) reacted violently, attacking local police and rightist youth groups stationed
+        on Jeju Island. Atrocities were committed by both sides, but those
+        by South Korean government forces are the best-documented. On one occasion, American soldiers
+        discovered the bodies of 97 people who had been killed by government forces. On another,
+        American soldiers encountered police who were executing 76 villagers. Between 40,000 and 60,000
+        people died as a result of the rebellion, or up to 25% of the island’s total population. Some
+        40,000 others fled to Japan to escape the fighting. In the decades after the uprising,
+        memory of the event was suppressed by the government through strict punishment. However, in 2006,
+        the Korean government apologized for its role in the killings and promised reparations. As
+        of 2010, these had not been paid. In 2008, bodies of victims of a massacre
+        were discovered in a mass grave near Jeju International Airport.
+    </string>
+    <string name="description">Description</string>
+    <string name="source_wikipedia">Source: Wikipedia</string>
+    <string name="home">Home</string>
+</resources>
