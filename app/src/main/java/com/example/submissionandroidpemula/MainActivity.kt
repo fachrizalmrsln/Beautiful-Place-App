@@ -77,7 +77,7 @@ class MainActivity : AppCompatActivity() {
         }, 4000)
     }
 
-    private fun addData() {
+    fun addData() {
         val data: ArrayList<DataModel> = ArrayList()
         GlobalScope.launch {
             data.add(
