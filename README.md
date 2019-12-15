@@ -2,7 +2,7 @@
 Application for certification in AndroidPemula class from dicoding.
 
 # Screen Shoot
-![Alt text](/screenshots/main.png?raw=true "Main Activity")  ![Alt text](/screenshots/detail.png?raw=true "Team Activity")  ![Alt text](/screenshots/about.png?raw=true "Detail Match Activity")
+![Alt text](/screenshots/main.png?raw=true "Main Activity")  ![Alt text](/screenshots/detail.png?raw=true "Detail Activity")  ![Alt text](/screenshots/about.png?raw=true "About Activity")
 
 # Features
 1. Staggered Grid Layout
