@@ -1,7 +1,7 @@
 # BeautifulPlace
 Application for certification in AndroidPemula class from dicoding.
 
-# Screen Shoot
+# Screenshot
 ![Alt text](/screenshots/main.png?raw=true "Main Activity")  ![Alt text](/screenshots/detail.png?raw=true "Detail Activity")  ![Alt text](/screenshots/about.png?raw=true "About Activity")
 
 # Features
